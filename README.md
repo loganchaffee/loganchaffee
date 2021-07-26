@@ -9,7 +9,7 @@
 
 ## Recent Projects I've Worked On:
 Rainy Days Game: http://loganraingame.surge.sh/ 
--  This little game I made was inspired by space invaders and my home city of Portland Oregon, where the constant rain always seems to bum me out. I started this project to familiarize myself with javascript by challenging myself to do somthing I've never done. It alowed me to work with HTML Canvas and an animation loop. I also got to work with object oriented javascript to construct the player and the enemies.
+-  This little game I made was inspired by space invaders and my home city of Portland Oregon, where the constant rain always seems to bum me out :laughing: I started this project to familiarize myself with javascript by challenging myself to do somthing I've never done. It alowed me to work with HTML Canvas and an animation loop. I also got to work with object oriented javascript to construct the player and the enemies.
 
 Photography site for Ryan Fowler: https://www.loganchaffee.com/projects/fowler-portfolio-site/index.html
 - For this I made a site for Ryan Fowler a photographer who likes to focus on candid photography and portraits. I tried to keep the design simple and clean to focus on the his photographs more than anything. This was also a fun project because I used javascript to build a pop up model that could cycle through the photos in his gallery.
