@@ -5,9 +5,9 @@
 
 -  I love using the MERN stack, and I focus a lot on front-end development with React. I love using it to build responsive user interfaces and single page apps with React Router. I'm also picking up new tools and technologies all the time, always learning and developing my skills.
 
-- :wrench: What I'm Working On: Currently working on a reading motivation/tracking app that I'm building with the MERN stack.  
-- :seedling: What I'm Learning: Learning more about MongoDB and Express.  
-- :smiley: Fun Facts About Me: :space_invader: I love alien movies, :metal: heavy metal, and 🛹 skateboarding.  
+- :wrench: **What I'm Working On:** Currently working on a reading motivation/tracking app that I'm building with the MERN stack.  
+- :seedling: **What I'm Learning:** Learning more about MongoDB and Express.  
+- :smiley: **Fun Facts About Me:** :space_invader: I love alien movies, :metal: heavy metal, and 🛹 skateboarding.  
 
 ## Recent Projects I've Worked On:
 
