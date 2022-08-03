@@ -8,7 +8,7 @@ When it comes to development, I enjoy working across the full stack. For front e
 
 Currently, I am working full time with an E-commerce company here in Portland Oregon. But I am always taking on side projects and freelance work as well. If you would like to work with me, please feel free to contact me below.
 - :wrench: **What I'm Working On:** Currently working on a reading motivation/tracking app that I'm building with the MERN stack.  
-- :seedling: **What I'm Learning:** Learning more about MongoDB and Express.
+- :seedling: **What I'm Learning:** Learning NextJS
 
 ## Recent Projects I've Worked On:
 
