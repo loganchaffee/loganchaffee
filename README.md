@@ -14,7 +14,7 @@ Currently, I am working full time with an E-commerce company here in Portland Or
 
 **Brilliant Book Worm** | https://www.brilliantbookworm.com/
 - Track your reading. Manage your library and book reviews. See what others are reading and share your ideas.
-- Built With: React, Redux, Bootstrap, :NodeJS, ExpressJS, MongoDB
+- Built With: React, Redux, Bootstrap, NodeJS, ExpressJS, MongoDB
 
 
 ## Contact Me:
