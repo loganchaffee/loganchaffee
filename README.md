@@ -6,7 +6,7 @@ I am a full-stack web developer who loves to create web apps that meet all kinds
 
 Currently, I am working full time with an E-commerce company here in Portland Oregon. But I am always taking on side projects and freelance work as well. If you would like to work with me, please feel free to contact me below.
 - :wrench: **What I'm Working On:** Currently working on a blog for my website with React and NextJS
-- :seedling: **What I'm Learning:** Learning NextJS
+- :seedling: **What I'm Learning:** Currently learning Typescript
 
 ## Recent Projects I've Worked On:
 
