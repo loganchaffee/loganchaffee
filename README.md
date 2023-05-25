@@ -8,7 +8,7 @@ Full-stack web developer
 
 :seedling: **What I'm Learning:** Currently learning TypeScript, tRPC, Prisma, and NextAuth.js
 
-## Recent Projects I've Worked On:
+## Some Side Projects I've Worked On:
 
 **Brilliant Book Worm** | https://www.brilliantbookworm.com/
 - Track your reading. Manage your library and book reviews. See what others are reading and share your ideas.
