@@ -22,5 +22,5 @@ Full-stack web developer
 - Once again the clouds have come to ruin your day. Don't let them! Dodge their raindrops and shoot them with your sunshine orbs to take them out. Bring back the sunshine!
 - This Game was built from scratch with Javascript, HTML, and CSS. It uses HTML5 canvas animation.
 
-## Contact Me:
+## Contact:
 📫  Reach me through my website: https://www.loganchaffee.com/
