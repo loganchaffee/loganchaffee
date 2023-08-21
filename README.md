@@ -1,13 +1,3 @@
-# Howdy 👋
-
-## Me
-
-Full-stack web developer
-
-:wrench: **What I'm Working On:** Currently working on a blog for my website with React and NextJS
-
-:seedling: **What I'm Learning:** Currently learning TypeScript, tRPC, Prisma, and NextAuth.js
-
 ## Some Side Projects I've Worked On:
 
 **Brilliant Book Worm** | https://www.brilliantbookworm.com/
